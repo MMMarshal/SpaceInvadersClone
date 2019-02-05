@@ -9,8 +9,8 @@
 #ifndef sfx_hpp
 #define sfx_hpp
 
-#include <stdio.h>
 #include <SFML/Audio.hpp>
+#include <stdio.h>
 #include <thread>
 
 /**
