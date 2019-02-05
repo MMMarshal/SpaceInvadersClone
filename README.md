@@ -1,12 +1,12 @@
 # Space Invaders Clone
 
-A Space Invaders clone created in C++ using the [SFML](https://www.sfml-dev.org) library.
+A Space Invaders clone created in C++ using  [SFML](https://www.sfml-dev.org).
 
 ![Image description](https://github.com/MMMarshal/SpaceInvadersClone/blob/master/gamePlay.gif)
 
 ## Installation on macOS
 
-The [SFML](https://www.sfml-dev.org) library is required in order to compile. Please visit their website for details, however on macOS their library can be installed via [Homebrew](https://brew.sh).
+[SFML](https://www.sfml-dev.org) is required in order to compile. Please visit their website for details, however on macOS their library can be installed via [Homebrew](https://brew.sh).
 
 ```
 brew install sfml
